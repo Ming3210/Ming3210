@@ -31,16 +31,6 @@ Thích build sản phẩm từ A-Z: từ giao diện đến backend, database đ
 
 </div>
 
----
-
-### 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ming3210&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF00FF&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ming3210&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=ffffff" width="40%" />
-
-</div>
 
 ---
 
