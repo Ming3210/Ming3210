@@ -48,8 +48,8 @@ Thích build sản phẩm từ A-Z: từ giao diện đến backend, database đ
 
 <div align="center">
 
-[![TikTok](https://img.shields.io/badge/-TikTok-FF00FF?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@vy.seion.05)
-[![Facebook](https://img.shields.io/badge/-Facebook-00D9FF?style=for-the-badge&logo=facebook&logoColor=black)](https://facebook.com/minh.vy.1601)
+[![TikTok](https://img.shields.io/badge/-TikTok-FF00FF?style=for-the-badge&logo=tiktok&logoColor=black)](https://)
+[![Facebook](https://img.shields.io/badge/-Facebook-00D9FF?style=for-the-badge&logo=facebook&logoColor=black)](https://facebook.com)
 
 </div>
 
