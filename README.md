@@ -40,8 +40,6 @@ Thích build sản phẩm từ A-Z: từ giao diện đến backend, database đ
 <img src="https://raw.githubusercontent.com/Ming3210/Ming3210/output/github-contribution-grid-snake.svg" width="80%" />
 </div>
 
-> ⚠️ Snake animation cần setup GitHub Action riêng (mình hướng dẫn bên dưới).
-
 ---
 
 ### 📬 Liên hệ
