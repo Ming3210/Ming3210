@@ -43,7 +43,6 @@ Thích build sản phẩm từ A-Z: từ giao diện đến backend, database đ
 
 [![Gmail](https://img.shields.io/badge/Gmail-vminh0227%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vminh0227@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ming3210-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ming3210)
-![Profile Views](https://komarev.com/ghpvc/?username=Ming3210&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS)
 
 </div>
 
