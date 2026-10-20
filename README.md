@@ -10,9 +10,7 @@
 
 ##  About me
 
-Fullstack Developer — code không ngủ, deploy không sợ 🦾  
-Thích build sản phẩm từ A-Z: từ giao diện đến backend, database đến deploy.  
-Đang mở để nhận mọi cơ hội việc làm — Fullstack / Backend / Frontend, remote hay onsite đều ok.
+Fullstack Developer
 
 ## 🛠️ Tech Stack
 
