@@ -8,7 +8,7 @@
 
 </div>
 
-## ⚡ Về tôi
+##  About me
 
 Fullstack Developer — code không ngủ, deploy không sợ 🦾  
 Thích build sản phẩm từ A-Z: từ giao diện đến backend, database đến deploy.  
@@ -22,7 +22,7 @@ Thích build sản phẩm từ A-Z: từ giao diện đến backend, database đ
 
 </div>
 
-## 📊 Stats
+##  Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Ming3210&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FFD1&fire=FF00FF&currStreakLabel=00FFD1" width="50%" />
